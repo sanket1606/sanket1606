@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanket1606
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS
--📫 How to reach me ,MO.no:84214041537,linkedin profile:www.linkedin.com/in/sanket-potdar-43ab6b220
+- 👀 I’m interested in java Full Stack Development
+- 🌱 I am a fresh graduate with a strong foundation in Java, J2EE, MySQL, HTML, CSS and JS. 
+-📫 How to reach me , MO.no:84214041537,  linkedin profile:www.linkedin.com/in/sanket-potdar59
 
 
 <!---
